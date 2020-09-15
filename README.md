@@ -32,4 +32,4 @@ https://www.getpostman.com/collections/3e8912cdd714b0c26d7f
 
 #### HTML front-end
 
-    open HTML file from crome browser 
+    open HTML file from crome browser .
